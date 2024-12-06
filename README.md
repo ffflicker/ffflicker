@@ -79,7 +79,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Cертификат»">](https://raw.githubusercontent.com/ffflicker/ffflicker/refs/heads/main/%D1%80%D0%B5%D0%B7.jpg)
+[<img src="https://raw.githubusercontent.com/ffflicker/ffflicker/refs/heads/main/%D1%80%D0%B5%D0%B7.jpg" width="280px" hspace="10px" alt="Cертификат»">](https://raw.githubusercontent.com/ffflicker/ffflicker/refs/heads/main/%D1%80%D0%B5%D0%B7.jpg)
 
 <br>
 <br>
